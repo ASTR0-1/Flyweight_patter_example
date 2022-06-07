@@ -23,6 +23,6 @@ That means this design pattern tries to reduce the already existing similar kind
 If this is not clear at the moment then don’t worry, we will try to understand this with an example.
 </i>
 
-<br/>📶<b>Uml-diagram for concrete realization of Flyweight Structural pattern :</b><br/>
+<br/>📶<b>Uml-diagram for concrete realization of Flyweight Structural pattern for this theme :</b><br/>
 
 ![image](https://user-images.githubusercontent.com/71894616/172372892-cfed6702-7939-4d9c-a893-28d6bc152d07.png)
