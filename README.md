@@ -6,9 +6,9 @@
 
 <i>
 <pre>
-  Реалізувати задачу роботи з касовими апаратами, де апарати можуть бути різних виробників. 
-  Кожен касовий апарат має унікальний номер, колекцію товарів та можливість додати товар, 
-  зберегти та роздрукувати чек.
+  Implement wheeled robots with body-mounted devices, where the devices can be different robots.
+    Each cash register has a maximum unique number, a collection of goods and the possibility of adding goods,
+    save and print the receipt.
 </pre>
 </i>
 
