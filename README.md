@@ -6,9 +6,9 @@
 
 <i>
 <pre>
-  Implement wheeled robots with body-mounted devices, where the devices can be different robots.
-    Each cash register has a maximum unique number, a collection of goods and the possibility of adding goods,
-    save and print the receipt.
+  To implement the task of working with cash registers, where the registers can be of different manufacturers.
+  Each cash register has a unique number, a collection of goods and the ability to add goods,
+  save and print a receipt.
 </pre>
 </i>
 
